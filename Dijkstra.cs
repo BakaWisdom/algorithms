@@ -17,12 +17,9 @@ namespace PS6
 
             double[] results = EvaluateInput(input);
 
-            //TODO bad format
             foreach (double answer in results)
             {
                 string formattedAnswer = answer.ToString("0.0000");
-
-
                 Console.WriteLine(formattedAnswer);
             }
             
