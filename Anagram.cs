@@ -79,7 +79,7 @@ namespace Algorithms1
         }
 
         /// <summary>
-        /// encodes each word into a a nunmber that uniquely represents the char found in a word of given length.
+        /// encodes each word into a a number that uniquely represents the char found in a word of given length.
         /// this is done by
         /// </summary>
         /// <param name="word"></param>
