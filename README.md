@@ -1,3 +1,5 @@
+Due to U of U's cheating policy I'm unable to make all my repos pubic so I'm trying to share this one specifically privately.
+
 # algorithms
 algorithms course
 These are many of the programs written in algorithms class.  These are primarily for Khattis problems.
