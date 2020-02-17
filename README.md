@@ -1,4 +1,4 @@
-Due to U of U's cheating policy I'm unable to make all my repos pubic so I'm trying to share this one specifically privately.
+Since solutions can already be found on the internet to all these problems I'm making this code public for the sole purpose of sharing it with future employers.  Please note that if you are find this repo while taking the algorithms course I would ask that you kindly refrain from using this code specifically. Using this code is cheating please do not put me or yourself in a compromising position.
 
 # algorithms
 algorithms course
